@@ -9,7 +9,7 @@ Each topic is organized in its own folder with self-contained, well-commented `m
 | Folder            | Topic Description                                 |
 |-------------------|----------------------------------------------------|
 | `01_goroutine`    | Introduction to goroutines (lightweight threads)  |
-| `02_channel`      | [Coming soon] Communication between goroutines using channels   |
+| `02_channel`      | Communication between goroutines using channels   |
 | `03_range_close`  | [Coming soon] Using `range` and `close` with channels            |
 | ...               | More topics coming...                              |
 
